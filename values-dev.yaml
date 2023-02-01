@@ -10,3 +10,16 @@ ingress:
         - path: /
           pathType: Prefix
 
+data:
+  contentHTML: |
+    <html>
+    <head>
+    <title>development</title>
+    </head>
+    <body>
+
+    <h1>Welcome to the development page</h1>
+
+    </body>
+    </html>
+

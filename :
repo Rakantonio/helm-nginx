@@ -21,3 +21,5 @@ data:
 
     </body>
     </html>
+env:
+  Name: production
